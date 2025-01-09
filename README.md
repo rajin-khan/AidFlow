@@ -1,5 +1,5 @@
 
-# AidLink: Donation Platform for Emergency Needs
+# AidFlow: Donation Platform for Emergency Needs
 
 **Frontend**:  
 - **Web**: **React.js** for building the web interface.  
