@@ -1,3 +1,8 @@
+![Repo banner](./assets/aidflow%20logo.png)
+
+---
+
+<div align="center">
 
 # AidFlow: Donation Platform for Emergency Needs
 
@@ -31,40 +36,40 @@
 
 ### **Learning Path for the React-Based Tech Stack**
 
-1. **Frontend (Web)**  
-   - Learn **HTML, CSS, and JavaScript basics**.  
-   - Learn **React.js**: Start with the official React documentation. Focus on creating reusable components, managing state (useState, useEffect), and working with React Router for navigation.  
+- **Frontend (Web)**  
+   Learn **HTML, CSS, and JavaScript basics**.  
+   Learn **React.js**: Start with the official React documentation. Focus on creating reusable components, managing state (useState, useEffect), and working with React Router for navigation.  
 
-2. **Frontend (Mobile)**  
-   - Learn **Android Development**:
+- **Frontend (Mobile)**  
+   Learn **Android Development**:
      - Start with **Java** or **Kotlin** (choose the one you're most comfortable with or want to learn).  
      - Build a simple app (e.g., a weather app) to get familiar with Android Studio, layouts, and components.  
 
-3. **Backend**  
-   - Learn **Python** (if not already familiar).  
-   - Learn **Flask**: Start with the basics, such as creating routes, handling requests, and building APIs. Practice building REST APIs for CRUD operations.  
+- **Backend**  
+   Learn **Python** (if not already familiar).  
+   Learn **Flask**: Start with the basics, such as creating routes, handling requests, and building APIs. Practice building REST APIs for CRUD operations.  
 
-4. **Database**  
-   - Learn **MongoDB**:
+- **Database**  
+   Learn **MongoDB**:
      - Understand the basics of NoSQL databases, collections, and documents.  
      - Practice with sample datasets, such as creating a user collection and donation records.  
 
-5. **API Development**  
-   - Combine Flask with MongoDB to build REST APIs for the app and website.  
-   - Learn how to handle user authentication and authorization (OAuth2).  
+- **API Development**  
+   Combine Flask with MongoDB to build REST APIs for the app and website.  
+   Learn how to handle user authentication and authorization (OAuth2).  
 
-6. **Payment Gateway Integration**  
-   - Study how to integrate **BKash APIs** from their official documentation.  
-   - Learn how to implement **SSLCOMMERZ** or **ShurjoPay** for Visa, MasterCard, and DBBL Nexus Pay transactions.  
+- **Payment Gateway Integration**  
+   Study how to integrate **BKash APIs** from their official documentation.  
+   Learn how to implement **SSLCOMMERZ** or **ShurjoPay** for Visa, MasterCard, and DBBL Nexus Pay transactions.  
 
-7. **Hosting**  
-   - Learn how to host a React app on **AWS S3** or **AWS Amplify** for scalable deployment.  
-   - Learn how to host a Flask app on **AWS Elastic Beanstalk** or **AWS Lightsail**.  
-   - Learn how to deploy the Android app to **Google Play Store**.  
+- **Hosting**  
+   Learn how to host a React app on **AWS S3** or **AWS Amplify** for scalable deployment.  
+   Learn how to host a Flask app on **AWS Elastic Beanstalk** or **AWS Lightsail**.  
+   Learn how to deploy the Android app to **Google Play Store**.  
 
-8. **Additional Tools**  
-   - Explore using **Twilio** for SMS notifications (optional but adds value).  
-   - Learn how to use **Git for version control** and work with repositories like GitHub or Bitbucket.  
+- **Additional Tools**  
+   Explore using **Twilio** for SMS notifications (optional but adds value).  
+   Learn how to use **Git for version control** and work with repositories like GitHub or Bitbucket.  
 
 ---
 
@@ -90,13 +95,12 @@
 ---
 
 ### **Resources for Payment Gateways**
-1. **BKash API**:  
-   - Visit their [developer portal](https://developer.bkash.com/) for API documentation and integration tutorials.  
+- **BKash API**:  
+   Visit their [developer portal](https://developer.bkash.com/) for API documentation and integration tutorials.  
+- **SSLCOMMERZ**:  
+   Access their [official documentation](https://developer.sslcommerz.com/) to learn about payment gateway integration for Visa/MasterCard/DBBL Nexus Pay.  
 
-2. **SSLCOMMERZ**:  
-   - Access their [official documentation](https://developer.sslcommerz.com/) to learn about payment gateway integration for Visa/MasterCard/DBBL Nexus Pay.  
-
-3. **ShurjoPay**:  
-   - Explore their [developer resources](https://shurjopay.com.bd/) for setup and integration.  
+- **ShurjoPay**:  
+   Explore their [developer resources](https://shurjopay.com.bd/) for setup and integration.  
 
 ---
