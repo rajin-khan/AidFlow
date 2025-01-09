@@ -95,8 +95,8 @@
 ---
 
 ### **Resources for Payment Gateways**
-- **BKash API**:  
-   Visit their [developer portal](https://developer.bkash.com/) for API documentation and integration tutorials.  
+- **BKash API (perhaps nonexistent)**:  
+   Visit their website for API documentation and integration tutorials.
 - **SSLCOMMERZ**:  
    Access their [official documentation](https://developer.sslcommerz.com/) to learn about payment gateway integration for Visa/MasterCard/DBBL Nexus Pay.  
 
