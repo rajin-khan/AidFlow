@@ -1,8 +1,8 @@
-![Repo banner](./assets/aidflow%20logo.png)
+<div align="center">
+
+<img src="./assets/aidflow logo.png" width="400"/>
 
 ---
-
-<div align="center">
 
 # AidFlow
 ##### Donation Platform for Emergency Needs
